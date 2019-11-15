@@ -1,2 +1,5 @@
 # TextAnalyticsAndVisualization
-This subject is quite interesting to me. I started to do some projects of Natural Language Processing.
+These are a few implemenations of Natural Language Processing
+
+### Tokenization
+### Stemming
